@@ -15,5 +15,5 @@ In the fall of 2023 we are going to build a ChatGPT-like Large Language Model. W
 * Agenda
   * Review the project
   * Get everyone setup on Colab or Jupyter
-  * Load a training dataset
+  * Load a [training dataset](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt)
 
